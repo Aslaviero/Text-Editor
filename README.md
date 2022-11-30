@@ -49,11 +49,24 @@ A command-line application to manager a company's employee database.
 
 ## Installation:
 
+Dependencies:
+
 - express
 - if-env
-- Dev Dependencies:
-  - concurrently
-  - nodemon
+  -code-mirror-themes
+  -idb
+
+Dev Dependencies:
+
+- concurrently
+- nodemon
+- babel
+- css-loader
+- html-webpack-plugin
+- http-server
+- style-loader
+- webpack(cli, dev-server, pwa-manifest)
+- workbox-webpack-plugin
 
 ## Contribution:
 
